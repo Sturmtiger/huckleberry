@@ -17,9 +17,10 @@ header {
 
 .intro-chunk {
   max-width: 800px;
-  margin-bottom: 64px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 92px auto 64px;
+  /* margin-bottom: 64px; */
+  /* margin-left: auto; */
+  /* margin-right: auto; */
   padding: 0 24px;
 }
 
@@ -29,7 +30,7 @@ header {
 }
 
 .intro-chunk > .title {
-  margin-top: 92px;
+  /* margin-top: 92px; */
   margin-bottom: 48px;
 }
 
